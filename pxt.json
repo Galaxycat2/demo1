@@ -1,0 +1,25 @@
+{
+    "name": "demo1",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "multiplayer": "github:goldend60/multiplayer#f3f1bb06fbe68b19d18466b16953fadd7a5d019a"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.39",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
